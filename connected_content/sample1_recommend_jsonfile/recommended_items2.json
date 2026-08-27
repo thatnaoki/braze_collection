@@ -1,0 +1,18 @@
+{
+  "response":{
+    "recommend1":[
+      {
+        "id":"iphone",
+        "spec":{
+          "color":"red"
+        }
+      },
+      {
+        "id":"android",
+        "spec":{
+          "color":"black"
+        }
+      }
+    ]
+  }
+}
