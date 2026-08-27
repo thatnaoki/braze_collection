@@ -19,7 +19,7 @@ API サーバーを立てずに Connected Content + Catalog + Liquid の組み�
 リポジトリルートで:
 
 ```bash
-export BRAZE_REST_ENDPOINT=https://rest.sondheim.braze.com
+export BRAZE_REST_ENDPOINT=https://todd.braze.com
 export BRAZE_API_KEY=<catalogs.create / catalogs.add_items 権限を持つ REST API キー>
 ./scripts/setup_braze_catalogs.sh
 ```
