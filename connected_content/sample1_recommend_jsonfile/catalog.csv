@@ -1,3 +1,6 @@
-id,product_title
-1908,iPhone 6
-1909,XBox
+id,product_title,price,currency,category,image_url,product_url,in_stock
+1908,iPhone 6,79800,JPY,Smartphone,https://picsum.photos/seed/1908/400/400,https://example.com/products/1908,true
+1909,XBox,49980,JPY,GameConsole,https://picsum.photos/seed/1909/400/400,https://example.com/products/1909,true
+1910,PlayStation 5,66980,JPY,GameConsole,https://picsum.photos/seed/1910/400/400,https://example.com/products/1910,true
+1911,4K TV 55inch,129800,JPY,TV,https://picsum.photos/seed/1911/400/400,https://example.com/products/1911,false
+1912,Tea Cup,292,JPY,Kitchen,https://picsum.photos/seed/1912/400/400,https://example.com/products/1912,true
